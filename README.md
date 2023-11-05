@@ -1,7 +1,7 @@
 <h1>Análise de dados         (Data analysis)</h1>   
 <br>
 
-<p>utilizando o Google Collaboratory                    (using Google Collaboratory)</p> 
+<p>utilizando o Google Colaboratory                    (using Google Collaboratory)</p> 
 
 <br>
 <br>
