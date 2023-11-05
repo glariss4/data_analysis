@@ -1,7 +1,7 @@
 ## _Análise de dados_         _(Data_analysis)_ 
 
 
-#####  usando o Google Collaboratory em Python     
+#####  utilizando o Google Collaboratory em Python     
 
 
 
