@@ -16,13 +16,15 @@ _O que fazer para evitar isso? Como saber as pessoas que têm maior tendência a
 
 
 ##### Temos 1 base de dados com informações dos clientes, tanto clientes atuais quanto clientes que cancelaram o cartão.
+<br>
+<br>
+e apartir disso do uso correto da base de dados, temos vários formas de descobrir o motivo de cancelamento a partir dos 
+gráficos e informações gerados através do nosso código.
 
-Temos vários formas de descobrir o motivo de cancelamento a partir dos gráficos e informações.
-
-
-
-
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
 _presentes nesse projeto: biblioteca pandas (tabelas) , biblioteca plotly (graficos interativos)._
 
