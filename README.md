@@ -1,7 +1,7 @@
 ## _Análise de dados_         _(Data_analysis)_ 
 <br>
 <br>
-<p>utilizando o Google Collaboratory</p> 
+<p>utilizando o Google Collaboratory                    (using Google Collaboratory)</p> 
 
 <br>
 <br>
