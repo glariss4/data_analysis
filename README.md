@@ -1,10 +1,13 @@
 ## _Análise de dados_         _(Data_analysis)_ 
 <br>
 <br>
-#####  utilizando o Google Collaboratory em Python     
+####  utilizando o Google Collaboratory 
 
-
-
+<br>
+<br>
+<h1>em Python</h1>   
+<br>
+<br>
 
 
 
@@ -18,7 +21,7 @@ _O que fazer para evitar isso? Como saber as pessoas que têm maior tendência a
 ##### Temos 1 base de dados com informações dos clientes, tanto clientes atuais quanto clientes que cancelaram o cartão.
 <br>
 <br>
-e apartir disso do uso correto da base de dados, temos vários formas de descobrir o motivo de cancelamento a partir dos 
+e com o gerenciamento correto da nossa base de dados, temos vários formas de descobrir o motivo de cancelamento a partir dos 
 gráficos e informações gerados através do nosso código.
 
 <br>
