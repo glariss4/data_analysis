@@ -1,6 +1,6 @@
 ## _Análise de dados_         _(Data_analysis)_ 
-
-
+<br>
+<br>
 #####  utilizando o Google Collaboratory em Python     
 
 
@@ -26,5 +26,6 @@ gráficos e informações gerados através do nosso código.
 <br>
 <br>
 <br>
-_presentes nesse projeto: biblioteca pandas (tabelas) , biblioteca plotly (graficos interativos)._
+
+'_presentes nesse projeto: biblioteca pandas (tabelas) , biblioteca plotly (graficos interativos)_'
 
