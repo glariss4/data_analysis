@@ -1,6 +1,6 @@
 <h1>_Análise de dados_         _(Data_analysis)_ </h1>   
 <br>
-<br>
+
 <p>utilizando o Google Collaboratory                    (using Google Collaboratory)</p> 
 
 <br>
@@ -10,9 +10,6 @@
 _O que fazer para evitar isso? Como saber as pessoas que têm maior tendência a cancelar o cartão?_</p>
 <br>
 <br>
-
-
-
 
 
 # *Identificar qual o motivo ou os principais motivos dos clientes estarem cancelando o cartão de crédito*
