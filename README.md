@@ -1,19 +1,19 @@
-## _Análise de dados_         _(Data_analysis)_ 
+<h1>_Análise de dados_         _(Data_analysis)_ </h1>   
 <br>
 <br>
 <p>utilizando o Google Collaboratory                    (using Google Collaboratory)</p> 
 
 <br>
 <br>
-<h1>em Python</h1>   
+ <p>_Você trabalha em uma grande empresa de Cartão de Crédito e o diretor da empresa percebeu que o número de clientes que cancelam seus cartões tem aumentado significativamente, causando prejuízos enormes para a empresa._
+
+_O que fazer para evitar isso? Como saber as pessoas que têm maior tendência a cancelar o cartão?_</p>
 <br>
 <br>
 
 
 
-_Você trabalha em uma grande empresa de Cartão de Crédito e o diretor da empresa percebeu que o número de clientes que cancelam seus cartões tem aumentado significativamente, causando prejuízos enormes para a empresa._
 
-_O que fazer para evitar isso? Como saber as pessoas que têm maior tendência a cancelar o cartão?_
 
 # *Identificar qual o motivo ou os principais motivos dos clientes estarem cancelando o cartão de crédito*
 
